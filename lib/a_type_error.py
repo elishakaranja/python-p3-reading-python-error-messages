@@ -1,3 +1,3 @@
 #!/usr/bin/env python3
-
-wrong_type = 'abc' + 123
+def right_number():
+    wrong_type = 243 + 123
